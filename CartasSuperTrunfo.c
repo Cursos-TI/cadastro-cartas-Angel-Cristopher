@@ -63,7 +63,7 @@ int main(){
         "PIB: %.2f bilhões de reais \n" 
         "Número de Pontos Turísticos: %d \n"
         "Densidade Populacional: %.2f hab/km² \n"
-        "PIB per Capita: R$ %.2f \n",
+        "PIB per Capita: R$ %.2f bilhões \n",
         estado_1, estado_1, codigoCarta_1, nomeCidade_1, populacao_1, area_1, pib_1, pontosTuristicos_1, densidadePopulacional_1, pibPerCapita_1);
 
 //Impressão de informações no terminal carta 2
@@ -76,7 +76,7 @@ int main(){
         "PIB: %.2f bilhões de reais \n" 
         "Número de Pontos Turísticos: %d \n"
         "Densidade Populacional: %.2f hab/km² \n"
-        "PIB per Capita: R$ %.2f \n",
+        "PIB per Capita: R$ %.2f bilhões \n",
         estado_2, estado_2, codigoCarta_2, nomeCidade_2, populacao_2, area_2, pib_2, pontosTuristicos_2, densidadePopulacional_2, pibPerCapita_2);
 
 return 0;
